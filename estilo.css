@@ -1,0 +1,30 @@
+#inteiro {
+    background: #50c878;
+    height: 100vh;
+
+}
+
+#eae {
+    text-align: center;
+    border: 5px solid black;
+    background: black;
+    color: white;
+    padding: 28px;
+    font-size: 35px;
+}
+
+#imgens {
+    text-align: center;
+    margin-top: 105px;
+    margin-bottom: 56px;
+}
+
+
+#fundo {
+    text-align: center;
+    font-size: 26px;
+    border: 15px solid black;
+    background: black;
+    color: white;
+    padding: 86px;
+}
